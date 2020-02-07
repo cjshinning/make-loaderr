@@ -1,0 +1,25 @@
+{
+  "name": "make-loaderr",
+  "version": "1.0.0",
+  "description": "learning webpack loading",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjshinning/make-loaderr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjshinning/make-loaderr/issues"
+  },
+  "homepage": "https://github.com/cjshinning/make-loaderr#readme",
+  "devDependencies": {
+    "loader-utils": "^1.2.3",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
